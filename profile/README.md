@@ -4,7 +4,7 @@ It's an on-and-off thing so expect some activity to flucuate randomly, and the e
 
 ## Projects
 
-- [`kitstory`](https://github.com/kitstory-app/kitstory): A monorepo of both the web app and desktop app written in Tauri
+- [`kitstory`](https://github.com/kitstory-app/client): A monorepo of both the web app and desktop app written in Tauri
 - [`plugin-sdk`](https://github.com/kitstory-app/plugin-sdk): A plugin SDK written in Rust
 
 Yeah you heard me, in **RUST**. Rust fanbois be creamin' right now.
